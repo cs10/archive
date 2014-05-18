@@ -1,0 +1,72 @@
+Where did you Grow up? What was your path to Cal?
+
+I was born in Beijing, then moved to Idaho, before settling down in
+Sunnyvale, CA. I'd describe my school experience as a pinball, where where I
+ended up bouncing past first grade, then hitting second grade twice in two
+different countries. For high school, I went to Fremont High in Sunnyvale,
+then Lynbrook High in San Jose, and finally spent senior year in De Anza
+College, a local community college. As for my path to cal, I applied
+thinking I'd be Poli Sci. From there, I pinballed over to
+english/shakespeare, and then MCB, before settling down into CES.
+
+Programming:
+
+I started off early in BASIC, liked it, and then later took classes in C++
+and Java. I hated that so much that I decided to never touch programming
+again in my life, which worked out really well. Later, in High School, I
+re-learned Java, decided that I actually liked it enough to continue. Then
+here, I've learned Scheme and some Python. I'm a pretty big fan of Python,
+even though I'm still a complete newbie with it.
+
+Hobbies:
+
+This is kind of tough, I do all kinds of things. Lately, I've been really
+amusing myself with trying to figure out my schedule, which I magically mess
+up every semester by adding a bunch of random classes.
+
+Talents & Skills / Something Memorable:
+
+This is a story of how I made fire.
+
+One day a few years ago, the power was out, but I decided I really wanted to
+take a shower. Being 2pm, the clever thing to do here was just keep the door
+open, and let the light shine in and the wise thing was to maybe just wait.
+I'm seldom clever, and never wise.  I decided that I would just light a
+candle in the bathroom. The only problem was, I had no match. "What's the
+big deal? I mean, primitive man could do it, I'm SURE I could do it too," I
+thought. If only I knew what was coming.
+
+I tried the obvious spin a stick outside on some grass, first. I'm sure its
+standard boy-scout procedure...but I gave up that one pretty fast after
+getting a splinter on the first twig I tried. Next, I remembered this cool
+Mythbusters episode where they focused sunlight with a magnifying glass to
+start fire. So, I pulled out a flashlight from the  closet, and focused it
+on some napkins. No luck...Maybe I should try toilet paper-that seems pretty
+dry?...No luck. Maybe, I should try some oil on the paper, more energy or
+something. Nope...Oh, maybe motor oil? Nope. Oh I know, if I rip up this
+toilet paper, I'll have a lot of frayed edges and a lot of easily-flammable
+fibers, THAT'S GOTTA WOR...Nope.
+
+At this point, it had been close to an hour, and I decided "Alright, time
+for the big guns." I searched for a battery, standard AA size and some
+wires. I connected up the wires to each end, and then connected them
+together on a piece of toilet paper. Waiting...waiting. SMOKE! Just a bit
+longer...just a bit...oh...crap. What is this...this battery is REALLY
+REALLY *hot*! My battery was going to EXPLODE in my hand! What do I do? Give
+up? Never. I taped an ice cube to the battery. I repeat same drill, and once
+again, I see smoke...and then...I get zapped. And then again. And again. So
+apparently, ice melts into water. And apparently, water conducts
+electricity. How could I have known?
+
+At this point, it's closer to the two hour mark...and I just left the door
+open as I showered. Then, I went to 7-11 which was about a 2 minute walk
+away and picked up a lighter. I got fire pretty soon after that.
+
+A few years later, I told this story to my college roommate. He asked me,
+"Why didn't you just use the flashlight in the bathroom?"
+
+Commitments:
+
+I'm seriously considering doing NaNo this year. It's a project where you
+write a 175 page / 50,000 word novel during the month of November. If I do
+it, it will probably be some fun mixture of high fantasy and soap opera.

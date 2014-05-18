@@ -1,0 +1,716 @@
+<!doctype html public "-//w3c//dtd html 4.0 transitional//en">
+<html>
+  <head>
+    <meta http-equiv="Pragma" content="no-cache">
+    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+    <title>UC Berkeley EECS | Fall 2009 CS39N : The Beauty and Joy of Computing</title>
+    <link href="mailto:cs4-ta@pasteur.eecs.berkeley.edu" rev=made>
+		<csscriptdict import>
+			<script type="text/javascript" src="file:///Users/ddgarcia/Library/Preferences/Adobe/GoLive/Settings8/JScripts/GlobalScripts/CSScriptLib.js"></script>
+
+		</csscriptdict>
+		<csactiondict>
+			<script type="text/javascript"><!--
+var preloadFlag = false;
+function preloadImages() {
+	if (document.images) {
+		over_WuChungMing240 = newImage('i/WuChungMingLaughing240.jpg');
+		preloadFlag = true;
+	}
+}
+
+// --></script>
+		</csactiondict>
+    <style type="text/css">
+<!--
+.fixedwidth {
+	font-family: Courier New, Courier, monospace;
+}
+-->
+    </style>
+  </head>
+  
+<body onLoad="preloadImages();" bgcolor="#FFFFEF">
+    <!--39L Logo and Navigation Stuff -->
+    <table BORDER=0 CELLSPACING=2 CELLPADDING=5 WIDTH="100%" >
+
+      <tr BGCOLOR="#000000">
+	<td VALIGN=middle>
+	  <div align="center">
+	    <h1><font color="#FFFFFF">CS39N</font></h1>
+	  </div>
+	</td>
+	<td VALIGN=BOTTOM><font color="#FFFFFF"><font size=-1><a href="http://www.berkeley.edu/">UC Berkeley</a> 
+	| <a href="http://coe.berkeley.edu/">College of Engineering</a> 
+	| <a href="http://www.eecs.berkeley.edu/">Department of Electrical Engineering and Computer Sciences</a><br>
+							Fall 2009, Two Units, Letter-Graded, CC#: 26256.</font></font></td>
+      </tr>
+      <tr BGCOLOR="#EEEDD0">
+	<td VALIGN=middle>
+	  <div align="center">
+	    <a href="http://scratch.mit.edu/"><img src="i/scratch.png" alt="" height="87" width="204" border="0"></a><br>
+						<a href="http://scratch.mit.edu/"><i>We'll be programming in Scratch!</i></a></div>
+	</td>
+	<td VALIGN=bottom>
+					<div align="center">
+						<h1><b>The Beauty and Joy of Computing</b><!--<p><a href="http://www.ucwise.org/"><font size="+3">Enter UC-WISE</font></a></p>--></h1>
+						<p><a href="http://fss.berkeley.edu/seminar.lasso?sem_ID=SM006065">FS Seminars</a> | <a href="http://bspace.berkeley.edu/">bspace</a> | <a href="http://osoc.berkeley.edu/catalog/gcc_search_sends_request?p_dept_cd=COMPSCI&p_number=39N">General Catalog</a> | <a href="http://osoc.berkeley.edu/OSOC/osoc?p_term=FL&p_dept=cs&p_course=39n">Enrollment</a></p>
+						<p><font size=+2>MW 3-5pm, 200 Sutardja-Dai (CITRIS) Hall<br>
+							</font></p>
+						<hr>
+						<a href="#Overview">Overview</a> 
+						| <a href="#News">News</a> 
+						| <a href="#Schedule"> Schedule</a> 
+						| <a href="#Calendar">Calendar</a> | <a href="#Staff">Staff</a> | <a href="#Grading">Grading</a> | <a href="#Resources">Resources</a>
+						<!--
+		| <a href="https://www.cs.berkeley.edu/%7eddgarcia/teaching/cs4/">Photos</a> 
+		| <a href="news:ucb.class.cs4">Newsgroup</a> 
+		| <a href="prj/">Final Project</a> 
+		| <a href="GeneralInfo.shtml">General Info</a> 
+		| <a href="https://inst.eecs.berkeley.edu/connecting.html#news">AuthNews</a>  
+		 <a href="https://inst.eecs.berkeley.edu/~cs4/webgrades/">WebGrades</a> 
+		--></div>
+
+				</td>
+      </tr>
+    </table>
+    <!-- End 39L Logo and navigation Stuff -->
+  <br>
+    <hr>
+    <!-- Begin Overview -->
+    
+    <a NAME="Overview"></a><br>
+    <table align="center" width="100%" border="0" cellspacing="0" cellpadding="2">
+
+      <tr>
+	<td bgcolor="#000000">
+	  <table align="center" width="100%" border="0" cellspacing="0" cellpadding="10">
+	    <tr>
+	      <td bgcolor="#EEEDD0">
+		<h2>Overview</h2>
+								<a href="http://fss.berkeley.edu/seminar.lasso?sem_ID=SM006065">CS39N</a> is a pilot <a href="http://fss.berkeley.edu/">freshman/sophomore seminar</a> version of a new course, <i><b>The Beauty and Joy of Computing</b></i>. Computing has changed the world in profound ways. It has opened up wonderful new ways for people to connect, design, research, play, create, and express themselves. However, just <em>using</em> a computer is only a small part of the picture. The real transformative and empowering experience comes when one learns how to <em>program</em> the computer, to translate ideas into code. This course will teach students how to do exactly that, using <a href="http://scratch.mit.edu/">Scratch</a>, one of the friendliest programming languages ever invented. It's purely graphical, which means programming involves simply dragging blocks around, and building bigger blocks out of smaller blocks. But this course is far more than just learning to program. We'll focus on some of the &quot;Big Ideas&quot; of computing, such as abstraction, design, recursion, concurrency, simulations, and the limits of computation. We'll show some beautiful applications of computing that have changed the world, talk about the history of computing, and where it will go in the future. Throughout the course, relevance will be emphasized &#150; relevance to the student and to society. As an example, the final project will be completely of the students' choosing, on a topic most interesting to them. The overarching theme is to expose students to the beauty and joy of computing. This course is designed for computing non-majors. We are especially excited about bringing computing (through this course) to traditionally under-represented groups, i.e., women and ethnic minorities. <b>Enrollment for the pilot offering will be limited to 20 first- and second-year students. </b>This course is serving as a test-the-waters 2-unit (letter-graded) pilot for a full, 4-unit course we plan to offer in the fall of 2010.</td>
+
+	    </tr>
+	  </table>
+	</td>
+      </tr>
+    </table>
+    <!-- end Overview -->
+<br>
+    <hr>
+    
+    <!-- Begin Announcements -->
+
+    <a NAME="News"></a><br>
+    <table align="center" width="100%" border="0" cellspacing="0" cellpadding="2">
+      <tr>
+	<td bgcolor="#000000">
+	  <table align="center" width="100%" border="0" cellspacing="0" cellpadding="10">
+	    <tr>
+	      <td bgcolor="#EEEDD0">
+		<h2>
+		  News 
+		  <!--
+		      (<b><a href="old-news.html">Old News</a>)</b>
+		    -->
+
+		</h2>
+		<!-- News Table -->
+		<table width="100%" border=0 cellpadding=10 cellspacing=0>
+									<tr valign="top">
+									  <td align="right" valign="middle"><b>2009-10-21</b></td>
+									  <td><p>We've posted another lecture (<a href="lec/04/2009-09-14-CS39N-L04-DG-Combinatorial-Game-Theory-iPod.mov"><strong>L04 : Computational Game Theory</strong></a>)   online. Also, don't forget our upcoming important dates:</p>
+									    <ul>
+									      <li><span class="fixedwidth">Wed 2009-10-21</span> @ 3pm : <a href="paper/paper-spec.txt">Paper proposals</a> due</li>
+									      <li><span class="fixedwidth">Sat 2009-10-24</span> @ 10am-noon : Review session in lab</li>
+									      <li><span class="fixedwidth">Mon 2009-10-26</span> @ 7pm-10pm : Midterm in lab<br>
+								          </li>
+					                  </ul></td>
+			  </tr>
+									<tr valign="top">
+									  <td align="right" valign="middle"><b>2009-10-13</b></td>
+									  <td>The most recent lectures (<a href="lec/08/2009-10-12-CS39N-L08-BH-Social-Implications-of-Computing-I-iPod.mov"><strong>L08 : Social Implications of Computing</strong></a>, <strong><a href="lec/02/2009-08-31-CS39N-L02-DG-Games-iPod.mov">L02 : Video Games</a></strong>)  are online.</td>
+			  </tr>
+									<tr valign="top">
+									  <td align="right" valign="middle"><b>2009-10-08</b></td>
+									  <td>The second set of  lecture videos (<a href="lec/01/2009-08-26-CS39N-L00-Introduction-Scratch-Demo-iPod.mov"><strong>L00 : Introduction + Scratch Demo</strong></a>, <a href="lec/01/2009-08-26-CS39N-L01-Abstraction-iPod.mov"><strong>L01: Abstraction</strong></a>) are online.</td>
+			  </tr>
+									<tr valign="top">
+									  <td align="right" valign="middle"><b>2009-09-23</b></td>
+									  <td>The first set of  lecture videos (<a href="lec/03/2009-09-09-CS39N-L03-BH-Artificial-Intelligence-iPod.mov"><strong>L03: Artificial Intelligence</strong></a>, <a href="lec/05/2009-09-21-CS39N-L05-BH-Functional-Programming-iPod.mov"><strong>L05: Functional Programming</strong></a>) are online. We're working on the rest and will let you know when they're uploaded...</td>
+			  </tr>
+									<tr valign="top">
+									  <td align="right" valign="middle"><b>2009-08-26</b></td>
+									  <td>Welcome to the first day of CS39N!!</td>
+			  </tr>
+									<tr valign="top">
+									  <td width="10%" align="right" valign="middle"><b>2009-08-18</b></td>
+									  <td> <strong><a href="http://www.lockheedmartin.com/">Lockheed Martin</a></strong> has provided a generous $50k grant to support CS39N teaching and development!</td>
+			  </tr>
+									<tr valign="top">
+									  <td width="10%" align="right" valign="middle"><b>2009-07-08</b></td>
+									  <td>Welcome to <b>CS39N</b>!  &#150; The Staff</td>
+			  </tr>
+									<tr valign="top">
+									  <td width="10%" align="right" valign="middle"><b>2009-04-29</b></td>
+									  <td>This<b> CS39N</b> course <a href="http://conium.org/~socialim/2009 Bears Breaking Boundaries Fact Sheet.pdf">won</a> a <em>2009 <a href="http://contest.berkeley.edu/">Bears Breaking Boundaries Contest for Curricular Innovation</a></em> award! The contest is a UC Berkeley &ldquo;idea competition&rdquo; that encourages student teams to propose the next generation of research, education, and service activities on the UC Berkeley campus.</td>
+			  </tr>
+								</table>
+	      </td>
+	    </tr>
+	  </table>
+	</td>
+      </tr>
+    </table>
+    <!-- end announcements -->
+<br>
+
+    <hr>
+    
+    <p>
+      <!-- Begin Lecture Reading and Quiz Schedule -->
+<a NAME="Schedule"></a></p>
+    <table align="center" width="100%" border="0" cellspacing="0" cellpadding="2">
+      <tr>
+        <td bgcolor="#000000"><table align="center" width="100%" border="0" cellspacing="0" cellpadding="10">
+          <tr>
+            <td bgcolor="#EEEDD0"><h2>Schedule, always in 200 Sutardja Dai Hall (CITRIS)</h2>
+              <table width="100%" border="2" cellspacing="0" cellpadding="4" style="border-collapse: collapse" bordercolor="#111111">
+                <tr>
+                  <td align="center"></td>
+                  <td BGCOLOR="#b0b0b0" align="center" width="18%"><h3>Monday</h3></td>
+                  <td BGCOLOR="#b0b0b0" align="center" width="18%"><h3>Tuesday</h3></td>
+                  <td BGCOLOR="#b0b0b0" align="center" width="18%"><h3>Wednesday</h3></td>
+                  <td BGCOLOR="#b0b0b0" align="center" width="18%"><h3>Thursday</h3></td>
+                  <td BGCOLOR="#b0b0b0" align="center" width="18%"><h3>Friday</h3></td>
+                </tr>
+                <tr>
+                  <td align="center">3-4pm</td>
+                  <td bgcolor="#fa8072" align="center" width="18%"><b>Lecture</b></td>
+                  <td rowspan="2"></td>
+                  <td rowspan="2" align="center" bgcolor="#99ccff"><b>Lab</b></td>
+                  <td rowspan="2"></td>
+                  <td rowspan="2"></td>
+                </tr>
+                <tr>
+                  <td align="center">4-5pm</td>
+                  <td bgcolor="#99ff66" align="center" width="18%"><b>Discussion</b></td>
+                </tr>
+              </table>
+          </table>
+  </table>
+    <!-- End Lab/Discussion Schedule -->
+    <hr>
+<p><a NAME="Calendar"></a></p>
+    <table align="center" width="100%" border="0" cellspacing="0" cellpadding="2">
+      <tr>
+	<td bgcolor="#000000">
+	  <div align="center">
+	    <center>
+	      <table border="0" cellspacing="0" cellpadding="10" style="border-collapse: collapse" bordercolor="#111111" width="100%">
+
+		<tr>
+									<td bgcolor="#EEEDD0">
+									  <h2>Calendar (everything in <em>italics</em> is tentative and not ready yet; don't bother to follow the links)</h2>
+<table border="2" cellpadding="4" cellspacing="0" width="100%" style="border-collapse: collapse" bordercolor="#111111">
+											<!-- Column Headers --><tbody>
+												<tr bgcolor="#b0b0b0">
+												  <th width="10%" align="center"><b>Big Idea</b></th>
+												  <th width="3%" height="28" bgcolor="#b0b0b0"><b>Wk</b></th>
+												  <th width="7%" bgcolor="#b0b0b0"><b>Date (2009)</b></th>
+												  <th width="20%" align="center" bgcolor="#b0b0b0">Lecture (usu Mon)</th>
+												  <th width="20%" align="center" bgcolor="#b0b0b0">Discussion (usu Mon)</th>
+												  <th width="20%" align="center" bgcolor="#b0b0b0">Lab (usu Wed)</th>
+													<th width="20%" align="center" bgcolor="#b0b0b0">Homework / Exam / Paper / Project</th>
+												</tr>
+												<!-- Week 1 -->
+												<tr bgcolor="#f0f0f0">
+												  <td width="10%" rowspan="2" align="center"><b>Abstraction</b></td>
+											    <td width="3%" rowspan="2" align="center" bgcolor="#f0f0f0">1</td>
+												  <td width="7%" align="center" bgcolor="#f0f0f0"><strike>08-24 M</strike></td>
+											    <td width="20%" align="center" bgcolor="#000000">&nbsp;</td>
+													<td width="20%" align="center" bgcolor="#000000">&nbsp;</td>
+													<td width="20%" align="center" bgcolor="#000000"><br></td>
+													<td width="20%" rowspan="2" align="center" valign="middle" bgcolor="#f0f0f0"><a href="hw/01/">photo + bio<br>
+												    making a movie</a></td>
+												</tr>
+												<tr bgcolor="#f0f0f0">
+													<td width="7%" align="center">08-26 W</td>
+												  <td width="20%" align="center"><a href="lec/01/">welcome, abstraction</a> (b)</td>
+													<td width="20%" align="center"><em><a href="dis/01/">get to know you</a></em></td>
+													<td width="20%" align="center"><a href="lab/01/">demo, free play, variables, broadcast</a></td>
+												</tr>
+												<!-- Week 2 -->
+												<tr bgcolor="#e0e0e0">
+												  <td width="10%" rowspan="6" align="center"><b>Graphics 
+												    &amp;<br>
+												    Artificial Intelligence<br>
+												    in Games</b></td>
+											    <td align="center" rowspan="2" bgcolor="#E0E0E0" width="3%">2</td>
+													<td width="7%" align="center" bgcolor="#E0E0E0">08-31 M</td>
+												  <td width="20%" rowspan="2" align="center" bgcolor="#E0E0E0"><a href="lec/02/">video games</a> (d)</td>
+													<td width="20%" rowspan="2" align="center" bgcolor="#E0E0E0"><em><a href="dis/02/">social aspect of games</a></em></td>
+													<td width="20%" rowspan="2" align="center" bgcolor="#E0E0E0"><a href="lab/02/">random, if, &amp; input</a></td>
+													<td width="20%" rowspan="2" align="center" valign="middle" bgcolor="#E0E0E0"><a href="hw/02/">brick wall, rock-paper-scissors, number guessing in reverse</a></td>
+												</tr>
+												<tr bgcolor="#e0e0e0">
+													<td width="7%" align="center">09-02 W</td>
+												</tr>
+												<!-- Week 3 -->
+												<tr bgcolor="#f0f0f0">
+												  <td align="center" rowspan="2" bgcolor="#e0e0e0" width="3%">3</td>
+													<td width="7%" align="center" bgcolor="#e0e0e0"><strike>09-07 M</strike></td>
+												  <td width="20%" align="center" bgcolor="#000000">&nbsp;</td>
+													<td width="20%" align="center" bgcolor="#000000">&nbsp;</td>
+													<td width="20%" align="center" bgcolor="#000000">&nbsp;</td>
+													<td width="20%" rowspan="2" align="center" bgcolor="#e0e0e0"><a href="hw/03/">high scores</a></td>
+												</tr>
+												<tr bgcolor="#f0f0f0">
+												  <td width="7%" align="center" bgcolor="#e0e0e0">09-09 W</td>
+													<td width="20%" align="center" bgcolor="#E0E0E0"><a href="lec/03/">artificial intelligence</a> (b)</td>
+													<td width="20%" align="center" bgcolor="#e0e0e0">&nbsp;</td>
+													<td width="20%" align="center" bgcolor="#e0e0e0"><a href="lab/03/">lists</a></td>
+												</tr>
+												<!-- Week 4 -->
+												<tr bgcolor="#e0e0e0">
+												  <td align="center" rowspan="2" width="3%">4</td>
+													<td width="7%" align="center">09-14 M</td>
+												  <td width="20%" rowspan="2" align="center" bgcolor="#e0e0e0"><a href="lec/04/">computational game theory</a> (d)</td>
+													<td width="20%" rowspan="2" align="center" bgcolor="#e0e0e0">&nbsp;</td>
+													<td width="20%" rowspan="2" align="center" bgcolor="#e0e0e0"><a href="lab/04/">design, tradeoffs of tic-tac-toe</a></td>
+													<td width="20%" rowspan="2" align="center" bgcolor="#E0E0E0"><a href="hw/04/">tic-tac-toe</a></td>
+												</tr>
+												<tr bgcolor="#e0e0e0">
+													<td width="7%" align="center">09-16 W</td>
+												</tr>
+												<!-- Week 5 -->
+												<tr bgcolor="#f0f0f0">
+												  <td width="10%" rowspan="4" align="center"><b>Programming Paradigms</b></td>
+											    <td width="3%" rowspan="2" align="center" bgcolor="#f0f0f0">5</td>
+												  <td width="7%" align="center" bgcolor="#f0f0f0">09-21 M</td>
+											    <td width="20%" rowspan="2" align="center" bgcolor="#F0F0F0"><a href="lec/05/">functional programming</a><em> (b)</em></td>
+													<td width="20%" rowspan="2" align="center" bgcolor="#F0F0F0"><em><a href="dis/05/">functions</a></em></td>
+													<td width="20%" rowspan="2" align="center" bgcolor="#F0F0F0"><p><a href="lab/05/">BYOB functions I</a><br>
+												      <em>design your midterm project</em></p></td>
+													<td width="20%" rowspan="2" align="center" bgcolor="#f0f0f0"><a href="hw/05/">BYOB</a></td>
+												</tr>
+												<tr bgcolor="#f0f0f0">
+													<td width="7%" height="28" align="center">09-23 W</td>
+												</tr>
+												<!-- Week 6 -->
+												<tr bgcolor="#e0e0e0">
+												  <td align="center" rowspan="2" bgcolor="#f0f0f0" width="3%">6</td>
+													<td width="7%" align="center" bgcolor="#f0f0f0">09-28 M</td>
+												  <td width="20%" rowspan="2" align="center" bgcolor="#F0F0F0"><a href="lec/06/">programming paradigms</a> (d)</td>
+													<td width="20%" rowspan="2" align="center" bgcolor="#F0F0F0">&nbsp;</td>
+												  <td width="20%" rowspan="2" align="center" bgcolor="#F0F0F0"><a href="lab/06/">BYOB functions II</a></td>
+													<td width="20%" rowspan="6" align="center" bgcolor="#FFCCCC"><a href="midtermproj/">midterm project</a></td>
+												</tr>
+												<tr bgcolor="#e0e0e0">
+													<td width="7%" align="center" bgcolor="#f0f0f0">09-30 W</td>
+												</tr>
+												<!-- Week 7 -->
+												<tr bgcolor="#f0f0f0">
+												  <td width="10%" rowspan="6" align="center" bgcolor="#E0E0E0"><b>Applications and their<br>
+											      Social Implications</b></td>
+											    <td align="center" rowspan="2" bgcolor="#e0e0e0" width="3%">7</td>
+													<td width="7%" align="center" bgcolor="#e0e0e0">10-05 M</td>
+												  <td width="20%" rowspan="2" align="center" bgcolor="#e0e0e0"><a href="lec/07/">applications that changed the world</a> (d)</td>
+													<td width="20%" rowspan="2" align="center" bgcolor="#e0e0e0"><em><a href="dis/07/">applications</a></em></td>
+													<td width="20%" rowspan="4" align="center" bgcolor="#e0e0e0"><p><em>work on your project<a href="lab/07/"></a></em></p>													  <em><a href="lab/08/"></a></em><em><a href="lab/08/"></a></em></td>
+												</tr>
+												<tr bgcolor="#f0f0f0">
+												  <td width="7%" align="center" bgcolor="#e0e0e0">10-07 W</td>
+												</tr>
+												<!-- Week 8 -->
+												<tr bgcolor="#e0e0e0">
+												  <td align="center" rowspan="2" width="3%">8</td>
+													<td width="7%" align="center">10-12 M</td>
+												  <td width="20%" rowspan="2" align="center" bgcolor="#e0e0e0"><a href="lec/08/">social implications of computing I</a> (b)</td>
+													<td width="20%" rowspan="2" align="center" bgcolor="#e0e0e0">&nbsp;</td>
+												</tr>
+												<tr bgcolor="#e0e0e0">
+												  <td width="7%" align="center">10-14 W</td>
+											    </tr>
+												<!-- Week 9 -->
+												<tr bgcolor="#f0f0f0">
+												  <td width="3%" rowspan="2" align="center" bgcolor="#E0E0E0"><p>9</p></td>
+												  <td width="7%" align="center" bgcolor="#E0E0E0">10-19 M</td>
+												  <td width="20%" rowspan="2" align="center" bgcolor="#E0E0E0"><strong><a href="midtermproj/">midterm project</a> due</strong><a href="lec/09/"><br>
+							              social implications of computing II</a> (b)</td>
+													<td width="20%" rowspan="2" align="center" bgcolor="#E0E0E0"><em><a href="dis/09/">social implications of computing</a><a href="dis/06/"></a><a href="dis/09/"></a></em></td>
+													<td width="20%" rowspan="2" align="center" bgcolor="#E0E0E0"><em>propose your paper</em></td>
+													<td width="20%" rowspan="2" align="center" bgcolor="#E0E0E0"><em>study for midterm<a href="mp/"></a></em></td>
+												</tr>
+												<tr bgcolor="#f0f0f0">
+												  <td width="7%" align="center" bgcolor="#E0E0E0">10-21 W</td>
+											    </tr>
+												<!-- Week 10 -->
+												<tr bgcolor="#e0e0e0">
+												  <td width="10%" rowspan="7" align="center" bgcolor="#F0F0F0"><b>Recursion</b></td>
+												  <td width="3%" rowspan="3" align="center" bgcolor="#f0f0f0">10</td>
+												  <td width="7%" align="center" bgcolor="#f0f0f0">10-26 M</td>
+												  <td colspan="3" align="center" bgcolor="#FBCC6A"><strong>Midterm in lab room,  7-10pm</strong><em><a href="lab/10/"></a></em></td>
+												  <td width="20%" rowspan="5" align="center" bgcolor="#CCFFCC"><p><em><a href="hw/10/">recursion homework<br>
+												  </a><a href="paper/">paper</a></em></p></td>
+											  </tr>
+												<tr bgcolor="#e0e0e0">
+												  <td width="7%" align="center" bgcolor="#f0f0f0">10-26 M</td>
+												  <td rowspan="2" align="center" bgcolor="#F0F0F0"><em><a href="lec/10/">recursion I</a> (b)</em></td>
+												  <td rowspan="2" align="center" bgcolor="#F0F0F0"><em><a href="recursion/">recursion</a></em></td>
+												  <td width="20%" rowspan="2" align="center" bgcolor="#F0F0F0"><em><a href="lab/10/">recursion</a></em></td>
+											    </tr>
+												<tr bgcolor="#e0e0e0">
+												  <td width="7%" align="center" bgcolor="#f0f0f0">10-28 W</td>
+											    </tr>
+												<!-- Week 11 -->
+												<tr bgcolor="#f0f0f0">
+												  <td align="center" rowspan="2" bgcolor="#F0F0F0" width="3%">11</td>
+													<td width="7%" align="center" bgcolor="#F0F0F0">11-02 M</td>
+												  <td width="20%" rowspan="2" align="center" bgcolor="#F0F0F0"><em><a href="lec/11/">recursion II</a> (d)</em></td>
+													<td width="20%" rowspan="2" align="center" bgcolor="#F0F0F0"><em><a href="dis/11/">return, go over midterm</a></em></td>
+													<td width="20%" rowspan="2" align="center" bgcolor="#F0F0F0"><em><a href="lab/11/">recursion</a></em></td>
+												</tr>
+												<tr bgcolor="#f0f0f0">
+												  <td width="7%" align="center">11-04 W</td>
+											    </tr>
+												<!-- Week 13 -->
+												<tr bgcolor="#e0e0e0">
+												  <td width="3%" rowspan="2" align="center" bgcolor="#F0F0F0">12</td>
+													<td width="7%" align="center" bgcolor="#F0F0F0">11-09 M</td>
+													<td width="20%" align="center" bgcolor="#F0F0F0"><em><strong><a href="paper/">paper</a> due</strong><a href="lec/12/"><br>
+									          recursion III</a> (d)</em></td>
+													<td width="20%" align="center" bgcolor="#F0F0F0">&nbsp;</td>
+												  <td width="20%" align="center" bgcolor="#F0F0F0">&nbsp;</td>
+													<td width="20%" rowspan="6" align="center" bgcolor="#CDCDFD"><em><a href="project/">final project of teams' choosing</a></em></td>
+												</tr>
+												<tr bgcolor="#e0e0e0">
+												  <td width="7%" align="center" bgcolor="#F0F0F0"><s>11-11 W</s></td>
+												  <td width="20%" align="center" bgcolor="#000000"></td>
+													<td width="20%" align="center" bgcolor="#000000"></td>
+													<td width="20%" align="center" bgcolor="#000000"></td>
+												</tr>
+												<!-- Week 14 -->
+												<tr bgcolor="#f0f0f0">
+												  <td width="10%" rowspan="4" align="center" bgcolor="#E0E0E0"><b>Limits and Future of Computation</b></td>
+											    <td width="3%" rowspan="2" align="center" bgcolor="#E0E0E0">13</td>
+													<td width="7%" align="center" bgcolor="#E0E0E0">11-16 M</td>
+												  <td width="20%" rowspan="2" align="center" bgcolor="#E0E0E0"><a href="lec/13/">limits of computation</a> (b)</td>
+													<td width="20%" rowspan="2" align="center" bgcolor="#E0E0E0"><em><a href="dis/13/">where will computing  go?</a></em></td>
+													<td width="20%" rowspan="4" align="center" bgcolor="#E0E0E0"><em>work on your project</em></td>
+												</tr>
+												<tr bgcolor="#f0f0f0">
+													<td width="7%" align="center" bgcolor="#E0E0E0">11-18 W</td>
+												</tr>
+												<!-- Week 15 -->
+												<tr bgcolor="#e0e0e0">
+												  <td align="center" rowspan="2" width="3%">14</td>
+													<td width="7%" align="center">11-23 M</td>
+												  <td width="20%" rowspan="2" align="center"><em><a href="lec/14/">future of computation</a> (d)</em></td>
+													<td width="20%" rowspan="2" align="center">&nbsp;</td>
+												</tr>
+												<tr bgcolor="#e0e0e0">
+													<td width="7%" align="center">11-25 W</td>
+												</tr>
+												<tr bgcolor="#f0f0f0">
+												  <td width="10%" rowspan="5" align="center"><strong>Summary / Evaluations</strong></td>
+												  <td align="center" rowspan="2" bgcolor="#F0F0F0" width="3%">15</td>
+												  <td width="7%" align="center" bgcolor="#F0F0F0">11-30 M</td>
+												  <td colspan="2" rowspan="2" align="center" valign="middle" bgcolor="#F0F0F0"><em> project presentations</em></td>
+												  <td width="20%" rowspan="2" align="center" valign="middle" bgcolor="#F0F0F0"><em><a href="lab/15/">summary, farewell, </a></em><a href="lab/15/"><em>survey</em></a></td>
+													<td width="20%" rowspan="5" align="center" bgcolor="#F0F0F0">&nbsp;</td>
+												</tr>
+												<tr bgcolor="#f0f0f0">
+													<td width="7%" align="center" bgcolor="#F0F0F0">12-02 W</td>
+												</tr>
+												<tr bgcolor="#e0e0e0">
+												  <td width="3%" rowspan="2" align="center" bgcolor="#F0F0F0">16</td>
+													<td width="7%" align="center" bgcolor="#F0F0F0">12-07 M</td>
+													<td colspan="3" rowspan="2" align="center" bgcolor="#F0F0F0"><a href="http://registrar.berkeley.edu/Default.aspx?PageID=RRRFAQ.html#RRR_1_what_is_RRR">RRR</a></td>
+												</tr>
+												<tr bgcolor="#e0e0e0">
+												  <td width="7%" height="46" align="center" bgcolor="#F0F0F0">12-09 W</td>
+											  </tr>
+												<tr bgcolor="#e0e0e0">
+												  <td width="3%" align="center" bgcolor="#F0F0F0">17</td>
+													<td width="7%" height="46" align="center" bgcolor="#F0F0F0">12-15 Tu</td>
+													<td colspan="3" align="center" bgcolor="#FDCC68"><strong>Final Exam, 12:30pm - 3:30pm, Location TBD</strong></td>
+												</tr>
+												<!-- FINAL EXAM -->
+											</tbody>
+									  </table>
+			  </table>
+	    </center>
+	  </div>
+  </table>
+    
+    
+    <br>
+    <hr>
+    <a NAME="Staff"></a>
+
+    <table align="center" width="100%" border="0" cellspacing="0" cellpadding="2">
+      <tr><td height="1659" bgcolor="#000000">
+	  <div align="center">
+	    <center>
+	      <table width="100%" border="0" cellspacing="0" cellpadding="10" style="border-collapse: collapse" bordercolor="#111111">
+		<tr><td bgcolor="#EEEDD0">
+		    <h2>Staff</h2>
+		    <h3>Instructors</h3>
+
+		    <div align="center">
+		      <center>
+			<table style="border-collapse: collapse" width="100%" bordercolor="#111111" cellpadding="5" cellspacing="0">
+			  <tr>
+														<td width="50%" height="437" align="center" valign="top"><p><a href="http://www.cs.berkeley.edu/%7eddgarcia/"><img src="http://www.eecs.berkeley.edu/%7eddgarcia/i/DanGarciaUCBFaculty2004_320.jpg" alt="" height="320" width="240" border="0"><br>
+														  
+									                    </a><b>Lecturer SOE</b><a href="http://www.cs.berkeley.edu/%7eddgarcia/"><br>
+											            Dan Garcia</a> (<a href="bios/DanBio.txt">bio</a>)<br>
+													    <a href="mailto:ddgarcia@cs.berkeley.edu"><tt>ddgarcia@cs</tt></a><BR>
+														  777 Soda Hall, x2-9595,<br>
+														  <STRONG>Office Hours:</STRONG> M 4-5pm in lab<BR>
+</p></td>
+														<td align="center" valign="top" width="50%"><p><a href="http://www.cs.berkeley.edu/~bh/"><img src="i/harvey.jpg" alt="" height="320" width="240" border="0"></a><br>
+											              <b>Lecturer SOE</b><a href="http://www.cs.berkeley.edu/~bh/"><b><br>
+											              </b>Brian Harvey</a> (<a href="bios/BrianBio.txt">bio</a>)<BR>
+													      <a href="mailto:bh@cs.berkeley.edu"><tt>bh@cs</tt></a><BR>
+														  781 Soda Hall, x2-8311,<br>
+
+	                                                      <STRONG>Office Hours:</STRONG> Wed 10-11:30am, Thu 4-5pm<BR>
+                        </p></td>
+			</table>
+			
+		      </center>
+		    </div>
+										<h3>Teaching Assistants (TAs), Readers and <b>TAs-in-Training (TAsiT)</b></h3>
+
+										<table style="border-collapse: collapse" width="100%" bordercolor="#111111" cellpadding="5" cellspacing="0">
+											<tr>
+												<td width="33%" height="321" align="center" valign="top">
+													<center>
+<img src="i/colleen.jpg" alt="" name="WuChungMing240" height="240" width="160" border="0"><br>
+													  <b>TA<br>
+													  </b>Colleen Lewis (<a href="bios/ColleenBio.txt">bio</a>)<br>
+														<a href="mailto:cs39n-tb@inst.eecs.berkeley.edu"><tt>cs39n-tb@inst.eecs</tt></a><br>
+														<strong>Office Hours: </strong>M 4-5pm
+													in lab
+													</center>
+												</td>
+												<td align="center" valign="top" width="33%"><a href=" "><img src="i/george.jpg" alt="" height="240" width="160" border="0"></a><a href="http://www.cs.berkeley.edu/~ddgarcia/"><br>
+
+													</a><b>TA<br>
+													</b>George Wang (<A HREF="bios/GeorgeBio.txt">bio</A>)<br>
+													<a href="mailto:cs39n-tc@inst.eecs.berkeley.edu"><tt>cs39n-tc@inst.eecs</tt></a><br>
+													<strong>Office Hours: </strong>M 4-5pm in lab</td>
+												<td align="center" valign="top" width="33%"><a href=" "><img src="i/angela.jpg" alt="" height="240" width="160" border="0"><br>
+                                                    </a><b>TAiT / Reader<br>
+                                                    </b>Angela Juang (<a href="bios/AngelaBio.txt">bio</a>)<br>
+                                              <a href="mailto:cs39n-rb@inst.eecs.berkeley.edu"><tt>cs39n-rb@inst.eecs</tt></a><br></td>
+											</tr>
+										</table>
+<h3><b>Lab Assistants</b> &amp; Student Developers</h3>
+										<table style="border-collapse: collapse" width="100%" bordercolor="#111111" cellpadding="5" cellspacing="0">
+											<tr>
+												<td align="center" valign="top" width="25%">
+
+													<center>
+<a href=" "><img src="i/hugh.jpg" alt="" height="240" width="160" border="0"></a><br>
+														<b>Lab Assistant<br>
+														</b>Hugh Oh<br>
+														<a href="mailto:cs39n-lb@inst.eecs.berkeley.edu"><tt>cs39n-lb@inst.eecs</tt></a>
+													</center>
+												</td>
+												<td align="center" valign="top" width="25%"><img src="i/kate.jpg" alt="" height="240" width="160" border="0"><a href="http://www.cs.berkeley.edu/%7eddgarcia/"><br>
+													</a><b>Lab Assistant<br>
+													</b>Kate Greenwood<br>
+													<a href="mailto:cs39n-lc@inst.eecs.berkeley.edu"><tt>cs39n-lc@inst.eecs</tt></a></td>
+												<td align="center" valign="top" width="25%"><img src="i/stephanie.jpg" alt="" height="240" width="160" border="0"><a href="http://www.cs.berkeley.edu/%7eddgarcia/"><br>
+                                                </a><b>Developer<br>
+                                                </b>Stephanie Chou<br>
+                                                <a href="mailto:cs39n-ld@inst.eecs.berkeley.edu"><tt>cs39n-ld@inst.eecs</tt></a></td>
+												<td align="center" valign="top" width="25%"><img src="i/daisy.jpg" alt="" height="240" width="160" border="0"><a href="http://www.cs.berkeley.edu/%7eddgarcia/"><br>
+													</a><b>Developer<br>
+													</b>Daisy Zhou<br>
+													<a href="mailto:cs39n-le@inst.eecs.berkeley.edu"><tt>cs39n-le@inst.eecs</tt></a></td>
+											</tr>
+										</table>
+<h3><b>Advisors</b></h3>
+										<table style="border-collapse: collapse" width="100%" bordercolor="#111111" cellpadding="5" cellspacing="0">
+											<tr>
+												<td align="center" valign="top" width="25%">
+													<center>
+<img src="i/mike.jpg" alt="" height="240" width="160" border="0"><br>
+														<strong>Senior Lecturer<br>
+														</strong>Michael Clancy<br>
+														<a href="mailto:clancy@cs.berkeley.edu"><tt>clancy@cs</tt></a></center>
+												</td>
+												<td align="center" valign="top" width="25%"><img src="i/nate.jpg" alt="" height="240" width="160" border="0"><a href="http://www.cs.berkeley.edu/%7eddgarcia/"><br>
+													</a><b>Research Associate<br>
+													</b>Nate Titterton<br>
+													<a href="mailto:nate@socrates.berkeley.edu"><tt>nate@socrates</tt></a></td>
+												<td align="center" valign="top" width="25%"><img src="i/jeremy.jpg" alt="" height="240" width="160" border="0"><a href="http://www.cs.berkeley.edu/%7eddgarcia/"><br>
+                                                </a><b>Research Associate<br>
+                                                </b>Jeremy Huddleston<br>
+                                                <a href="mailto:jeremyhu@berkeley.edu"><tt>jeremyhu@berkeley.edu</tt></a></td>
+												<td align="center" valign="top" width="25%"><img src="i/michael.jpg" alt="" height="240" width="160" border="0"><a href="http://www.cs.berkeley.edu/%7eddgarcia/"><br>
+                                                </a><b>Student<br>
+                                                </b>Michael Matloob<br>
+                                                <a href="mailto:cs39n-tc@inst.eecs.berkeley.edu"><tt>cs39n-tc@inst.eecs</tt></a></td>
+											</tr>
+										</table>
+		</table>
+	    </center>
+	  </div>
+  </table>
+    <!-- End Staff Section -->
+
+    <br>
+    <hr>
+    <!-- Begin Overview -->
+    <a NAME="Grading" id="Grading"></a><br>
+    <table align="center" width="100%" border="0" cellspacing="0" cellpadding="2">
+      <tr>
+        <td bgcolor="#000000"><table align="center" width="100%" border="0" cellspacing="0" cellpadding="10">
+          <tr>
+            <td bgcolor="#EEEDD0"><h2>Grading</h2>
+              <p>For	the most part, we  would prefer to teach this course <em>without</em> grades. What a wonderful concept, learning for learning sake! However, even though we can't change the &quot;system&quot; overnight; we can create grading policies that support learning as much as possible.</p>
+              <h3>The various course activities will contribute points to your grade as follows:</h3>
+              <table border="2" cellpadding="4" cellspacing="0" width="100%" style="border-collapse: collapse" bordercolor="#111111">
+                <tr bgcolor="#b0b0b0">
+                  <th width="33%" align="center" scope="col">Activity</th>
+                  <th width="33%" align="center" scope="col">Course Points</th>
+                  <th width="33%" align="center" scope="col">Percent of total grade</th>
+                </tr>
+                <tr bgcolor="#f0f0f0">
+                  <td width="33%" align="center">Weekly Quizzes, Partipation, Homework</td>
+                  <td width="33%" align="center">60</td>
+                  <td width="33%" align="center">15%</td>
+                </tr>
+                <tr bgcolor="#f0f0f0">
+                  <td width="33%" align="center">Paper</td>
+                  <td width="33%" align="center">60</td>
+                  <td width="33%" align="center">15%</td>
+                </tr>
+                <tr bgcolor="#f0f0f0">
+                  <td width="33%" align="center">Midterm Project</td>
+                  <td width="33%" align="center">60</td>
+                  <td width="33%" align="center">15%</td>
+                </tr>
+                <tr bgcolor="#f0f0f0">
+                  <td width="33%" align="center">Final Project</td>
+                  <td width="33%" align="center">60</td>
+                  <td width="33%" align="center">15%</td>
+                </tr>
+                <tr bgcolor="#f0f0f0">
+                  <td align="center">Midterm</td>
+                  <td align="center">60</td>
+                  <td align="center">15%</td>
+                </tr>
+                <tr bgcolor="#f0f0f0">
+                  <td align="center">Final Exam</td>
+                  <td align="center">100</td>
+                  <td align="center">25%</td>
+                </tr>
+              </table>
+              <h3>How we'll calculate your letter grade</h3>
+              <p>Your letter grade will be determined by total course points, as shown in the table below. There is no curve; your grade will depend only on how well you do, not on how well everyone else does. Incomplete grades will be granted only for dire medical or personal emergencies that cause you to miss the final exam, and only if your work up to that point is satisfactory.</p>
+              <table border="2" cellpadding="4" cellspacing="0" width="100%" style="border-collapse: collapse" bordercolor="#111111">
+                <tr>
+                  <th width="50%" align="right" bgcolor="#B0B0B0" scope="col">Points</th>
+                  <th width="50%" align="left" bgcolor="#B0B0B0" scope="col">Grade</th>
+                </tr>
+                <tr>
+                  <td width="50%" height="30" align="right" bgcolor="#F0F0F0">390-400</td>
+                  <td width="50%" align="left" bgcolor="#F0F0F0"><p>A+</p></td>
+                </tr>
+                <tr>
+                  <td width="50%" align="right" bgcolor="#F0F0F0">370-389</td>
+                  <td width="50%" align="left" bgcolor="#F0F0F0">A</td>
+                </tr>
+                <tr>
+                  <td width="50%" align="right" bgcolor="#F0F0F0">360-369</td>
+                  <td width="50%" align="left" bgcolor="#F0F0F0">A-</td>
+                </tr>
+                <tr>
+                  <td width="50%" align="right" bgcolor="#F0F0F0">350-359</td>
+                  <td width="50%" align="left" bgcolor="#F0F0F0">B+</td>
+                </tr>
+                <tr>
+                  <td width="50%" align="right" bgcolor="#F0F0F0">330-349</td>
+                  <td width="50%" align="left" bgcolor="#F0F0F0">B</td>
+                </tr>
+                <tr>
+                  <td width="50%" align="right" bgcolor="#F0F0F0">320-329</td>
+                  <td width="50%" align="left" bgcolor="#F0F0F0">B-</td>
+                </tr>
+                <tr>
+                  <td width="50%" align="right" bgcolor="#F0F0F0">310-319</td>
+                  <td width="50%" align="left" bgcolor="#F0F0F0">C+</td>
+                </tr>
+                <tr>
+                  <td width="50%" align="right" bgcolor="#F0F0F0">290-309</td>
+                  <td width="50%" align="left" bgcolor="#F0F0F0">C</td>
+                </tr>
+                <tr>
+                  <td width="50%" align="right" bgcolor="#F0F0F0">280-289</td>
+                  <td width="50%" align="left" bgcolor="#F0F0F0">C-</td>
+                </tr>
+                <tr>
+                  <td width="50%" align="right" bgcolor="#F0F0F0">240-279</td>
+                  <td width="50%" align="left" bgcolor="#F0F0F0">D</td>
+                </tr>
+                <tr>
+                  <td width="50%" align="right" bgcolor="#F0F0F0">&lt; 240</td>
+                  <td width="50%" align="left" bgcolor="#F0F0F0">F</td>
+                </tr>
+            </table></td>
+          </tr>
+        </table></td>
+      </tr>
+    </table>
+    <!-- end Overview -->
+    <br>
+    <hr>
+    <a NAME="Resources"></a>
+    <table align="center" width="100%" border="0" cellspacing="0" cellpadding="2">
+      <tr><td bgcolor="#000000">
+	  <table align="center" width="100%" border="0" cellspacing="0" cellpadding="10">
+	    <tr><td bgcolor="#EEEDD0">
+		<h2>Resources and Handouts</h2>
+		<table cellSpacing="2" cellPadding="2">
+
+		  <tr>
+		    <td height="58">
+		      <ul>
+												<li type="disc"><a href="http://scratch.mit.edu/"><strong>Scratch Homepage</strong></a>
+				    <li type="disc"><a href="http://www.debuggingrules.com/">Debugging Rules!</a> (9 simple rules to follow)
+		      
+				  </ul>
+
+		    </td>
+		  </tr>
+		</table>
+		
+		
+		<hr align=left>
+		
+			
+		<p>
+			<p>There is no book for this pilot; we'll be handing out notes through the semester.<img src="http://www.agilegamedevelopment.com/images/dilbert_pp.bmp" alt="Pair Programmers" height="204" width="576" align="right" border="0"></p>
+								<p>We will be using the <a href="http://www.eclipse.org/"><b>Scratch</b></a> programming language. Be sure to <a href="http://scratch.mit.edu/download">download version 1.4</a>  as well as  BYOB version 2 (link provided when it's released)</p>
+								<p>We will be using <i><a href="http://en.wikipedia.org/wiki/Pair_programming">Pair Programming</a></i>: &quot;Two programmers working side-by-side, collaborating on the same design, algorithm, code or test. One programmer, the driver, has control of the keyboard/mouse and actively implements the program. The other programmer, the observer, continuously observes the work of the driver to identify tactical (syntactic, spelling, etc.) defects and also thinks strategically about the direction of the work. On demand, the two programmers can brainstorm any challenging problem. Because the two programmers periodically switch roles, they work together as equals to develop software.&quot; -- <em>Laurie Williams, North Carolina State University Computer Science Professor</em></p>
+								
+
+	    </table>
+    </table>
+    <br>
+    <hr align=left>
+  
+    <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png" align="right"/></a> 
+    CS39N, <a href="http://inst.eecs.berkeley.edu/%7ecs4/"><tt>http://inst.eecs.berkeley.edu/~cs39n/</tt></a>  (Last Updated: <tt><!--#flastmod file="index.shtml"--></tt>)<br>
+    This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License</a>
+		
+
+	</body>
+
+</html>

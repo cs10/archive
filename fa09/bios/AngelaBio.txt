@@ -1,0 +1,68 @@
+WHERE DID YOU GROW UP? WHAT WAS YOUR PATH TO CAL?
+
+I was born in San Jose and then lived in Milpitas for
+the first three years of my life, then moved to the small
+town of Saratoga and have been rooted there ever since. 
+My family lives in the mountains, so I spent most of my 
+childhood sharing a backyard with deer, mountain lions, 
+coyotes, and various other interesting wildlife. My two older 
+sisters actually graduated from UC Berkeley's School of 
+Engineering, so when it came time for me to make my way to 
+college, it only seemed natural that I would come to Cal as 
+well. Go Bears! (Okay, I did apply to those elitist private 
+schools, but it was just for fun. ;) )
+
+HOW MUCH PROGRAMMING HAVE YOU DONE (& WHAT LANGUAGES)?
+
+I actually didn't really do any programming before I came to 
+Berkeley. In fact, I didn't even think for a second I was going 
+to be a CS major until my senior year of high school, during 
+which I was struck by a sudden flash of glorious realization. 
+Well, actually, what happened was that I liked to play all sorts 
+of computer and video games, and that year I decided to try my hand 
+at modding them...and I loved it, even though for most of the time 
+I had basically no clue what I was doing. XD So, to make a long 
+story short, I had just about no knowledge of computer science before 
+Berkeley, and as of now I know Scheme, C, and Java from the 61 series. 
+I've done a little bit of Matlab and Lua also.
+
+WHAT ARE YOUR HOBBIES?
+
+There's so many I don't even know how to list them all! But...maybe 
+I can use the next section for some of them. ;) Besides video games 
+which I mentioned earlier, I also love drawing, cooking, gardening, 
+photography, singing (and music in general), and playing badminton. 
+Oh, and I also love to...eat! Don't ask me what my favorite food is, 
+though, because I can never decide. X3 I'm rarely picky when it comes 
+to food, but I can say that I don't like bittermelon.
+
+WHAT ARE SOME OF YOUR TALENTS & SKILLS?
+
+Well, I guess a lot of the talents I've developed are in music. I've 
+been playing piano since I was 5 and violin since I was 10, and recently 
+I've been learning how to play electric guitar. (Someday I'm going to 
+be an awesome rocker! XD Just kidding...or am I? >_>) I also used to sing 
+in my high school's chamber/a cappella choir. The funny thing is, there 
+weren't enough guys in the choir, so I ended up singing first tenor by 
+myself at our concerts and competitions. It was a fun experience.
+
+HAVE YOU DONE ANYTHING REMARKABLE? HAS ANYTHING MEMORABLE HAPPENED TO YOU?
+
+Hmm...this is a hard one. I guess the most remarkable thing I've done so 
+far is co-found a graphic design company and store called Tastyfresh 
+Factory with my two sisters - we've been working very hard on it! As of 
+now, we're making the final preparations for launching our website, but 
+please come by to check it out when we're done! ;)
+
+WHAT COMMITMENTS WILL BE CONSUMING YOUR CYCLES THIS SEMESTER?
+
+I'm double majoring in CS and Applied Math and I'm still in my second 
+year, so I have plenty of classes ahead of me. (I'm also intending on going 
+for a third major, but we'll see where that goes.) This semester I'll be 
+taking CS 61B, EE 42/43, Math 110, and Theater R1B. I'm also going to be 
+sitting in on CS 170 lectures if I can, because I hear Prof. Wagner is 
+awesome! :) Besides school and reading for this class, I tutor math on the 
+weekend back at home, and work on Tastyfresh Factory. I'm hoping this semester 
+I'll also get a chance to program some useful applications for 
+outside-of-class projects, and maybe finally get my personal website 
+up - I've been planning to do that for ages!

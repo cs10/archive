@@ -1,0 +1,61 @@
+WHERE DID YOU GROW UP? WHAT WAS YOUR PATH TO CAL?
+
+I grew up in Fresno (which many people might not know is the raisin 
+capital of the world). I figure that a bunch of farmers moved to Fresno 
+hoping to make wine and realized that their grapes shriveled up way too 
+quickly!
+
+I think the more interesting part of my story is once I got to Cal. 
+I came to Berkeley and had no idea what I wanted to study. A friend of 
+mine talked me into taking CS61a, and then the next semester talked me 
+into CS61b, and then the next semester talked me into CS61c. I figured 
+that EECS was for people who were much smarter than me - but it turned 
+out that I REALLY liked it. People always tried to tell me that I shouldn't 
+be a computer scientist, because I am too "social" - but I couldn't be 
+happier that I didn't listen to them.
+
+
+HOW MUCH PROGRAMMING HAVE YOU DONE (& WHAT LANGUAGES)
+
+I'm really excited about programming in Scratch (http://scratch.mit.edu/). 
+This past summer I taught 50 - 6th graders to program in Scratch and they 
+loved it! 
+
+I did my undergrad in EECS here at Cal and I learned Scheme from Dan Garcia 
+when I took CS61a from him in 2001. More recently I have been using Scheme 
+and Java as a TA or instructor for cs3 or cs61b for the last 2 years.
+
+In addition to learning some langugates in classes at Berkeley, I also worked 
+as a programmer using Java, C and C++.
+
+WHAT ARE YOUR HOBBIES
+
+I love to play games: Mafia, Cranium, Set, Bridge and Clue-Museum Caper are 
+my favorite 5 games and EVERYONE should know how to play! If you haven't heard 
+of one or more of them - don't despair - we can play sometime!
+
+I like to sew, bake, cook, sing in the car and dance!
+
+WHAT ARE SOME OF YOUR TALENTS & SKILLS
+
+I know how to moon walk! A very important skill - but very easy to learn!
+
+I love american sign language (ASL). Berkeley Community College is actually a 
+little hub for ASL - so you should definitely take advantage of their courses 
+while you live here!
+
+
+HAVE YOU DONE ANYTHING REMARKABLE? HAS ANYTHING MEMORABLE HAPPENED TO YOU?
+
+I had the opportunity to study abroad in London my 3rd year in college. It was 
+the BEST experience. I filled my time while I was there traveling, cooking, baking 
+and playing soccer (football). It was the best (and only) 10 month vacation of my life!
+
+
+WHAT COMMITMENTS WILL BE CONSUMING YOUR CYCLES THIS SEMESTER?
+
+I'm getting my Ph.D. in Education and my Masters in Computer Science so I'll be 
+finishing up my Masters project that has to do with young students learning to
+program in Scratch and Logo. I am also TAing the course for first time TAs, taking
+a class about "conceptual change" and preparing for my qualifying exam in the Spring.
+
