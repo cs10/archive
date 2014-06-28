@@ -67,7 +67,7 @@ document[img_name].src = img_src;
 <td width="160">
 <a href="http://www.berkeley.edu/">
 <img border=0 src="images/berkeley_seal.gif" alt="UC Berkeley">
-<!-- src="http://centers.nationalchildrensstudy.gov/uc-irvine/PublishingImages/logo-ucirvine-uc-berkeley.jpg" --></a>
+<!-- src="//centers.nationalchildrensstudy.gov/uc-irvine/PublishingImages/logo-ucirvine-uc-berkeley.jpg" --></a>
 </td>
 </tr>
 </table>
@@ -83,7 +83,7 @@ document[img_name].src = img_src;
 
 
 
-<div class="wp-caption alignright" style="width:360px;align:right;float:right;margin:0px 0px 5px 5px"><img src="http://innovations.coe.berkeley.edu/vol3-issue10-dec09/computing1.jpg/image" alt="Fall 2009 students work together using pair programming" width="350" height="251" align="center"/><p class="wp-caption-text">Fall 2009 students <a href="http://en.wikipedia.org/wiki/Pair_programming">pair programming</a> in Scratch.</p></div>
+<div class="wp-caption alignright" style="width:360px;align:right;float:right;margin:0px 0px 5px 5px"><img src="//innovations.coe.berkeley.edu/vol3-issue10-dec09/computing1.jpg/image" alt="Fall 2009 students work together using pair programming" width="350" height="251" align="center"/><p class="wp-caption-text">Fall 2009 students <a href="http://en.wikipedia.org/wiki/Pair_programming">pair programming</a> in Scratch.</p></div>
 
 <p style="text-align:justify;">&nbsp;&nbsp;&nbsp;<b>CS10</b>, <i>The Beauty and Joy of Computing</i>, is an exciting new course offered by the <a href="http://www.eecs.berkeley.edu/">UC Berkeley EECS Dept</a>.  Computing has changed the world in profound ways. It has opened up wonderful new ways for people to connect, design, research, play, create, and express themselves. However, just using  a computer is only a small part of the picture. The real transformative and empowering experience comes when one learns how to program  the computer, to translate ideas into code. This course will teach students how to do exactly that, using
 <a href="http://byob.berkeley.edu">BYOB</a> (based on <a href="http://www.scratch.mit.edu">Scratch</a>), one of the friendliest programming languages ever invented. It&#39;s purely graphical, which means programming involves simply dragging blocks around, and building bigger blocks out of smaller blocks. <div class="wp-caption alignright" style="width:334px;float:left;margin:0px 5px 0px 0px"><img src="images/AppleOrchardLab.jpg" alt="Our new Mac lab" width="324" height="216" align="center"/><p class="wp-caption-text">Our labs are held in the Apple Orchard, which is not only the newest lab on campus with the fastest machines, but also has the most natural light!</p></div></p>
@@ -1159,7 +1159,7 @@ document.write("Last modified on "+date)
 <!--#flastmod file="index.shtml"-->
 </tt></center>
 
-    <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png" align="right"/></a> 
+    <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><img alt="Creative Commons License" style="border-width:0" src="//i.creativecommons.org/l/by-nc-sa/3.0/88x31.png" align="right"/></a> 
 <p align="center">This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License</a></p>
 
 </body>

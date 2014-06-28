@@ -163,7 +163,7 @@
     </table>
     <p class="c4"> </p>
     <div style="width:570px;float:right;margin:0px 5px 0px 10px" class="wp-caption center">
-      <iframe width="560" height="315" frameborder="0" allowfullscreen="" src="http://www.youtube.com/embed/videoseries?list=PL48C2AF5762B2D32D&amp;hl=en_US&amp;hd=1"></iframe>
+      <iframe width="560" height="315" frameborder="0" allowfullscreen="" src="//www.youtube.com/embed/videoseries?list=PL48C2AF5762B2D32D&amp;hl=en_US&amp;hd=1"></iframe>
       <p class="wp-caption-text"> Watch a playlist of 18 student testimonials
         about CS10. </p>
     </div>
@@ -1238,7 +1238,7 @@
       <!--#config timefmt="%Y-%m-%d@%H:%M:%S %Z"-->
       <!--#flastmod file="index.shtml"--> </tt> <br />
     <p> <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/" rel="license">
-        <img align="right" src="http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png"
+        <img align="right" src="//i.creativecommons.org/l/by-nc-sa/3.0/88x31.png"
           class="c14"
           alt="Creative Commons License" />
       </a> </p>

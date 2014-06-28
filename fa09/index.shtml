@@ -462,7 +462,7 @@ function preloadImages() {
 		      <center>
 			<table style="border-collapse: collapse" width="100%" bordercolor="#111111" cellpadding="5" cellspacing="0">
 			  <tr>
-														<td width="50%" height="437" align="center" valign="top"><p><a href="http://www.cs.berkeley.edu/%7eddgarcia/"><img src="http://www.eecs.berkeley.edu/%7eddgarcia/i/DanGarciaUCBFaculty2004_320.jpg" alt="" height="320" width="240" border="0"><br>
+														<td width="50%" height="437" align="center" valign="top"><p><a href="http://www.cs.berkeley.edu/%7eddgarcia/"><img src="//www.eecs.berkeley.edu/%7eddgarcia/i/DanGarciaUCBFaculty2004_320.jpg" alt="" height="320" width="240" border="0"><br>
 														  
 									                    </a><b>Lecturer SOE</b><a href="http://www.cs.berkeley.edu/%7eddgarcia/"><br>
 											            Dan Garcia</a> (<a href="bios/DanBio.txt">bio</a>)<br>
@@ -696,7 +696,7 @@ function preloadImages() {
 		
 			
 		<p>
-			<p>There is no book for this pilot; we'll be handing out notes through the semester.<img src="http://www.agilegamedevelopment.com/images/dilbert_pp.bmp" alt="Pair Programmers" height="204" width="576" align="right" border="0"></p>
+			<p>There is no book for this pilot; we'll be handing out notes through the semester.<img src="//www.agilegamedevelopment.com/images/dilbert_pp.bmp" alt="Pair Programmers" height="204" width="576" align="right" border="0"></p>
 								<p>We will be using the <a href="http://www.eclipse.org/"><b>Scratch</b></a> programming language. Be sure to <a href="http://scratch.mit.edu/download">download version 1.4</a>  as well as  BYOB version 2 (link provided when it's released)</p>
 								<p>We will be using <i><a href="http://en.wikipedia.org/wiki/Pair_programming">Pair Programming</a></i>: &quot;Two programmers working side-by-side, collaborating on the same design, algorithm, code or test. One programmer, the driver, has control of the keyboard/mouse and actively implements the program. The other programmer, the observer, continuously observes the work of the driver to identify tactical (syntactic, spelling, etc.) defects and also thinks strategically about the direction of the work. On demand, the two programmers can brainstorm any challenging problem. Because the two programmers periodically switch roles, they work together as equals to develop software.&quot; -- <em>Laurie Williams, North Carolina State University Computer Science Professor</em></p>
 								
@@ -706,7 +706,7 @@ function preloadImages() {
     <br>
     <hr align=left>
   
-    <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png" align="right"/></a> 
+    <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><img alt="Creative Commons License" style="border-width:0" src="//i.creativecommons.org/l/by-nc-sa/3.0/88x31.png" align="right"/></a> 
     CS39N, <a href="http://inst.eecs.berkeley.edu/%7ecs4/"><tt>http://inst.eecs.berkeley.edu/~cs39n/</tt></a>  (Last Updated: <tt><!--#flastmod file="index.shtml"--></tt>)<br>
     This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License</a>
 		

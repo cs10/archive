@@ -74,7 +74,7 @@ document[img_name].src = img_src;
 		<br />
 		</td>
 		<td width="160"> <a href="http://www.berkeley.edu/"> <img border="0" src="images/berkeley_seal.gif" alt="UC Berkeley">
-<!-- src="http://centers.nationalchildrensstudy.gov/uc-irvine/PublishingImages/logo-ucirvine-uc-berkeley.jpg" -->
+<!-- src="//centers.nationalchildrensstudy.gov/uc-irvine/PublishingImages/logo-ucirvine-uc-berkeley.jpg" -->
 		</a> </td>
 	</tr>
 </table>
@@ -87,7 +87,7 @@ document[img_name].src = img_src;
 	</a>
 </tr>
 <div class="wp-caption alignright" style="width:360px;align:right;float:right;margin:0px 0px 5px 5px">
-<img src="http://innovations.coe.berkeley.edu/vol3-issue10-dec09/computing1.jpg/image" alt="Fall 2009 students work together using pair programming" width="350" height="251" align="center" />
+<img src="//innovations.coe.berkeley.edu/vol3-issue10-dec09/computing1.jpg/image" alt="Fall 2009 students work together using pair programming" width="350" height="251" align="center" />
 <p class="wp-caption-text">
 	Fall 2009 students <a href="http://en.wikipedia.org/wiki/Pair_programming">pair programming</a> in Scratch.
 </p>
@@ -108,7 +108,7 @@ document[img_name].src = img_src;
 &nbsp;&nbsp;&nbsp;Some context: in the Fall of 2009, we piloted a 2-unit version of this course as the freshman/sophomore seminar <a href="http://inst.eecs.berkeley.edu/~cs39n/fa09/">CS39N: The Beauty and Joy of Computing</a> to 20 students. <a href="http://innovations.coe.berkeley.edu/vol3-issue10-dec09/beauty-and-joy-of-computing">It was such a success</a> that we decided to move ahead to make this course our new computing course for non-majors, replacing the venerable <a href="http://inst.eecs.berkeley.edu/~cs3l/">CS3L</a> and <a href="http://inst.eecs.berkeley.edu/~selfpace/class/cs3s">CS3S</a>. Last fall (2010) was a 90-person pilot and we're continuing to grow the course as word spreads to more students. We're continually replacing the weakest parts of the curriculum and hope you'll enjoy!
 </p>
 <div class="wp-caption" style="padding: 5px; margin: 5px; float: right; display: inline;">
-<iframe title="YouTube video player" width="640" height="390" src="http://www.youtube.com/embed/6gUW_mEulx0" frameborder="0" allowfullscreen></iframe>
+<iframe title="YouTube video player" width="640" height="390" src="//www.youtube.com/embed/6gUW_mEulx0" frameborder="0" allowfullscreen></iframe>
 <p class="wp-caption-text">
 	Student feedback from Fall 2010.
 </p>
@@ -127,7 +127,7 @@ document[img_name].src = img_src;
 <!--
 <div style="float: right; display: inline;">
 <iframe title="YouTube video player" width="640" height="390"
-src="http://www.youtube.com/embed/6gUW_mEulx0"
+src="//www.youtube.com/embed/6gUW_mEulx0"
 frameborder="0" allowfullscreen></iframe>
 </div>
 -->
@@ -307,7 +307,7 @@ href="http://www.berkeley.edu/map/maps/AB45.html">200 Sutardja Dai</a></td>
 		<param name="movie" value="http://www.youtube.com/p/3041A415C9BACF57?hl=en_US&amp;fs=1"></param>
 		<param name="allowFullScreen" value="true"></param>
 		<param name="allowscriptaccess" value="always"></param>
-		<embed src="http://www.youtube.com/p/3041A415C9BACF57?hl=en_US&amp;fs=1" type="application/x-shockwave-flash" width="480" height="385" allowscriptaccess="always" allowfullscreen="true">
+		<embed src="//www.youtube.com/p/3041A415C9BACF57?hl=en_US&amp;fs=1" type="application/x-shockwave-flash" width="480" height="385" allowscriptaccess="always" allowfullscreen="true">
 		</embed>
 	</object>
 </center>
@@ -763,7 +763,7 @@ document.write("Last modified on "+date)
 <!--#flastmod file="index.shtml"-->
 </tt>
 </center>
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png" align="right" /></a>
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><img alt="Creative Commons License" style="border-width:0" src="//i.creativecommons.org/l/by-nc-sa/3.0/88x31.png" align="right" /></a>
 <p align="center">
 This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License</a>
 </p>

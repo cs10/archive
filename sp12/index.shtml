@@ -103,7 +103,7 @@
 				<td width="160">
 					<a href="http://www.berkeley.edu/">	
 						<img border="0" src="images/berkeley_seal.gif" alt="UC Berkeley" />
-<!-- src="http://centers.nationalchildrensstudy.gov/uc-irvine/PublishingImages/logo-ucirvine-uc-berkeley.jpg" -->
+<!-- src="//centers.nationalchildrensstudy.gov/uc-irvine/PublishingImages/logo-ucirvine-uc-berkeley.jpg" -->
 					</a>
 				</td>
 			</tr>
@@ -167,7 +167,7 @@
 			</tr>
 		</table>
 		<div class="wp-caption alignright c3">
-			<img src="http://innovations.coe.berkeley.edu/vol3-issue10-dec09/computing1.jpg/image" alt="Fall 2009 students work together using pair programming" width="350" height="251" align="middle" />
+			<img src="//innovations.coe.berkeley.edu/vol3-issue10-dec09/computing1.jpg/image" alt="Fall 2009 students work together using pair programming" width="350" height="251" align="middle" />
 			<p class="wp-caption-text">
 				Fall 2009 students
 				<a href="http://en.wikipedia.org/wiki/Pair_programming">
@@ -233,7 +233,7 @@
 
 	<center>
 	<div class="wp-caption center" style="width:863px;align:center;float:center;margin:0px 5px 0px 0px">
-	<iframe width="853" height="480" src="http://www.youtube.com/embed/videoseries?list=PL48C2AF5762B2D32D&amp;hl=en_US&amp;hd=1" frameborder="0" allowfullscreen></iframe>
+	<iframe width="853" height="480" src="//www.youtube.com/embed/videoseries?list=PL48C2AF5762B2D32D&amp;hl=en_US&amp;hd=1" frameborder="0" allowfullscreen></iframe>
 	<p class="wp-caption-text">
 	18 student testimonials about CS10!
 	</p>
@@ -312,7 +312,7 @@
 
 <div style="float: right; display: inline;">
 <iframe title="YouTube video player" width="640" height="390"
-src="http://www.youtube.com/embed/6gUW_mEulx0"
+src="//www.youtube.com/embed/6gUW_mEulx0"
 frameborder="0" allowfullscreen></iframe>
 </div>
 -->
@@ -2525,7 +2525,7 @@ document.write("Last modified on "+date)
 		<br />
 		<p>
 			<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">
-				<img alt="Creative Commons License" class="c14" src="http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png" align="right" />
+				<img alt="Creative Commons License" class="c14" src="//i.creativecommons.org/l/by-nc-sa/3.0/88x31.png" align="right" />
 			</a>
 		</p>
 		<p class="c15">

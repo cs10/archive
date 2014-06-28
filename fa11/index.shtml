@@ -90,7 +90,7 @@ document[img_name].src = img_src;
 </a>
 </tr>
 <div class="wp-caption alignright" style="width:360px;align:right;float:right;margin:0px 0px 5px 5px">
-<img src="http://innovations.coe.berkeley.edu/vol3-issue10-dec09/computing1.jpg/image" alt="Fall 2009 students work together using pair programming" width="350" height="251" align="center" />
+<img src="//innovations.coe.berkeley.edu/vol3-issue10-dec09/computing1.jpg/image" alt="Fall 2009 students work together using pair programming" width="350" height="251" align="center" />
 <p class="wp-caption-text">
 	Fall 2009 students
 	<a href="http://en.wikipedia.org/wiki/Pair_programming">
@@ -140,7 +140,7 @@ and
 
 <center>
 <div class="wp-caption center" style="width:863px;align:center;float:center;margin:0px 5px 0px 0px">
-<iframe width="853" height="480" src="http://www.youtube.com/embed/videoseries?list=PL48C2AF5762B2D32D&amp;hl=en_US&amp;hd=1" frameborder="0" allowfullscreen></iframe>
+<iframe width="853" height="480" src="//www.youtube.com/embed/videoseries?list=PL48C2AF5762B2D32D&amp;hl=en_US&amp;hd=1" frameborder="0" allowfullscreen></iframe>
 <p class="wp-caption-text">
 18 student testimonials about CS10!
 </p>
@@ -2193,7 +2193,7 @@ document.write("Last modified on "+date)
 </tt>
 </center>
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">
-<img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png" align="right" />
+<img alt="Creative Commons License" style="border-width:0" src="//i.creativecommons.org/l/by-nc-sa/3.0/88x31.png" align="right" />
 </a>
 <p align="center">
 This work is licensed under a
